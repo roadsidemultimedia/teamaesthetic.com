@@ -1,0 +1,11 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/full-mouth-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/full-mouth-2.jpg">After</after>
+	</image>
+	
+	<heading>Full Mouth Rehabilitation</heading>
+	<text readMore=""><![CDATA[<p>The process of full mouth rehabilitation involves restoring the teeth, bite and muscles to a natural-looking and youthful-feeling condition. This in turn can improve self esteem and enhance appearance. Combining computerized technology and an expert’s artistic eye, full mouth rehabilitation may be the answer to countless problems.Many people experiencing issues such as migraines, temperature sensitivity of the teeth, sore jaw muscles and pain in the arms, neck and shoulders, have benefited from this service.</p>
+	<p>To find out how full mouth rehabilitation can help you, call our office today!</p>]]></text>
+</root>

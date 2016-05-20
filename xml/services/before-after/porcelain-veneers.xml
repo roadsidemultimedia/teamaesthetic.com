@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/porcelain-veneers-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/porcelain-veneers-2.jpg">After</after>
+	</image>
+	
+	<heading>Porcelain Veneers</heading>
+	<text readMore=""><![CDATA[<p>The entire team at __________ believe that improving a patients' smile through conservative, cosmetic dental techniques, such as veneers, has a positive impact on overall appearance and self-confidence. A thin layer of the front of the tooth is removed to allow porcelain to be bonded to the tooth without making it any thicker. The veneer covers dark or yellow teeth, fills unsightly gaps, lengthens short or stubby teeth and straightens crooked teeth. Veneers are a lasting solution. The veneers are attached to the teeth using the most advanced methods of bonding principles. The end result is a strong, functional, natural-looking and beautiful smile!</p>]]></text>
+</root>

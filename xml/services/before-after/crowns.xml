@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/crowns-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/crowns-2.jpg">After</after>
+	</image>
+	
+	<heading>Dental Crowns</heading>
+	<text readMore=""><![CDATA[<p>The most common crown restoration placed today utilizes a metal lining with a coating of porcelain. These restorations are not as natural-looking in appearance because light is not able to pass through porcelain-metal crowns as it does with a natural tooth. The result is an opaque or flat-looking tooth. These types of traditional crowns can also leave a dark or gray line next to the gumline. Our talented team is proud to offer the latest in dental restorations, a natural-looking alternative: all-ceramic, non-metal crowns! With these modern restorations you will notice the "life-like" appearance that mimic natural teeth and do not produce the black gumline so common with porcelain-metal crowns.</p>]]></text>
+</root>

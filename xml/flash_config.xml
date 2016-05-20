@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+
+	<!-- Client Info-->
+	<clientInfo>
+					<clientName>Team Aesthetics & CMR Dental </clientName>
+					<address1>185 South Capitol Ave</address1>
+					<address2>Idaho Falls, ID 83402</address2>
+					<phone>1-800-210-3401</phone>
+					<fax>208-523-0937</fax>
+					<email>info@teamaesthetics.com</email>
+					<officeHours>8am-5pm, Monday-Friday</officeHours>
+					<copyright><![CDATA[Copyright 2009, Name, all rights reserved]]></copyright>
+	</clientInfo>
+	
+	
+	<styling>
+		<!-- General Colors-->
+		<xmlColor>true</xmlColor>
+		
+		<!-- Footer Colors -->
+		<footer 	FooterColor="true" 
+					TextColor="0xffffff" 
+					Gradient1="0x#2A0001" 
+					Gradient2="0x000000" 
+					Gradient1Alpha="50" 
+					Gradient2Alpha="100" 
+					TopBarColor="0xFFFFFF" 
+					TopBarAlpha="35" 
+					BtnColor1="0xffffff" 
+					BtnColor2="0xcccccc" 
+					BtnAlpha="100" 
+					BtnLabelColor="0xffffff" 
+					rColor1="0xBC6832" 
+					rColor2="0xffffff" 
+					rAlpha="100" />
+					
+					
+		<phone		fontColor="0xEC8224"
+					shadowEnabled = "true"
+					shadowColor="0x000000"
+					shadowAlpha="20"
+					shadowDistance="2"
+					shadowBlur="2"
+					shadowAngle="65" />
+					
+					
+					<!-- 
+					menu type 1: on main menu button rollover, submenu appears in popup
+					menu type 2: on main menu button press, submenu replaces main menu and includes "back" button
+					menu type 3: on main menu button press, submenu appears in a separate area of the main 
+					-->
+		<menu 		type="2"
+					main_vert_spacing="25" 
+					sub_vert_spacing="25" 
+					submenu_horz_position="0" 
+					submenu_vert_position="-40" 
+					back_horz_position="0"
+					back_vert_distance="0" />
+	</styling>
+	
+	
+	
+	
+	<!--Footer & actionBar Links-->
+	<!--If calling a javascript function, assign *_target to "none"-->
+	<links>
+		<contact 	title="Contact Us" 
+					enabled="true" 
+					target="none">
+		<![CDATA[javascript: myLightWindow.activateWindow({href: 'https://roadside.wufoo.com/forms/m7w6w9/', title: '', type: 'external', width: '700', loadingAnimation: 'true'});]]></contact>
+		
+		
+		
+		
+		<bookmark 	title="Bookmark Us" 
+					enabled="true" 
+					target="none">
+					<![CDATA[javascript: myLightWindow.activateWindow({href: 'http://www.addthis.com/bookmark.php', title: 'Bookmark and Share', type: 'external', width: '640', height: '540',  loadingAnimation: 'true'});]]></bookmark>
+		
+		
+		<subscribe 	title="Subscribe" 
+					enabled="true" 
+					target="none">
+					<![CDATA[javascript: myLightWindow.activateWindow({href: 'rss.rss', title: 'RSS Feed', type: 'external', width: '640',  loadingAnimation: 'true'});]]></subscribe>
+		
+		
+		<roadside 	title="Site by Roadside Multimedia" 
+					enabled="true" 
+					target="_top">
+					<![CDATA[http://roadsidemultimedia.com]]></roadside>
+										
+					
+		
+	</links>
+	
+	
+	
+	
+	<!--  Music Settings -->
+	<music 			enabled="true" >
+					<track src="assets/music/sound038.mp3" />
+	</music>
+</root>

@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/smile-makeover-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/smile-makeover-2.jpg">After</after>
+	</image>
+	
+	<heading>Smile Makeover</heading>
+	<text readMore=""><![CDATA[<p>A newly made-over smile is truly a work of art. The term "smile makeover" applies to the enhancement of a smile using a combination of methods. A patient's eyes, lip line, coloring, gum tissue contouring and face are all considered when a new smile is being designed. Our goal is to design your smile so that it fits you, is beautiful, strong and natural looking. We will create a smile especially for you that will make you smile for years to come!</p>]]></text>
+</root>

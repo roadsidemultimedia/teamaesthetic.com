@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>	
+<!-- Client Info-->
+<clientName>Matt Roberts</clientName>
+<address1>185 South Capitol Ave</address1>
+<address2>Idaho Falls, ID 83402</address2>
+<phone>1.800.210.3401</phone>
+<fax>208.523.0937</fax>
+<email>cmr@ida.net</email>
+<officeHours></officeHours>
+
+<copyright>
+	<![CDATA[Copyright 2006, Mr. Client, all rights reserved]]>
+</copyright>
+<!-- General Colors-->
+<headingColor>0x663366</headingColor>
+<bodyColor>0x222222</bodyColor>
+<linkColor>0xFF0000</linkColor>
+<activeLinkColor>0xffffff</activeLinkColor>
+
+<!--Footer Colors -->
+<footerTextColor>0xffffff</footerTextColor>
+<footerBtnBorder>0x000000</footerBtnBorder>
+<footerBtnBgColor>0x666666</footerBtnBgColor>
+<footerBtnBgAlpha>100</footerBtnBgAlpha>
+<footerBtnBorderAlpha>70</footerBtnBorderAlpha>
+<footerGradient1>0xBCBCBC</footerGradient1>
+<footerGradient2>0x000000</footerGradient2><!--A solid color if gradient1's alpha = 0 -->
+<footerGradient1Alpha>100</footerGradient1Alpha>
+<footerGradient2Alpha>100</footerGradient2Alpha>
+<xmlFooterColor>true</xmlFooterColor><!--XML defined colors for the footer? -->
+<xmlColor>true</xmlColor> <!--GLOBAL XML defined colors for everything in the site-->
+
+<!--  Music Settings -->
+<musicEnabled>false</musicEnabled>
+<musicPath>media/music1.swf</musicPath> <!--  set this to the path and include the extension, either .swf or .mp3  -->
+<musicSwf>false</musicSwf> <!--  sets flash to load music from a swf  -->
+<musicMp3>false</musicMp3> <!--  sets flash to load music from an mp3-->

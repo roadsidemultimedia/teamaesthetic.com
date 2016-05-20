@@ -1,0 +1,7 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="assets/images/services/intro.jpg">Our Services</image>
+	
+	<heading>Our Services</heading>
+	<text readMore=""><![CDATA[<p>Do you want to smile with confidence? Come and see the possibilities available to you through today's dentistry. Dr. _____ and Dr. _____ are highly trained dentists in comprehensive, cosmetic, and restorative dentistry and create some of _____ best smiles. After a thorough examination and personalized consultation, our doctors can design your smile with the perfect balance of form and function. Using several different methods, crooked, chipped, discolored or unevenly spaced teeth can be restored to a beautiful, natural, white smile in just weeks. Call us for a consultation today and let us create your new beautiful smile!</p>]]></text>
+</root>

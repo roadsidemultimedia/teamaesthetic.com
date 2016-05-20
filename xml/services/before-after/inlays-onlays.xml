@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/inlays-onlays-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/inlays-onlays-2.jpg">After</after>
+	</image>
+	
+	<heading>Inlays & Onlays</heading>
+	<text readMore=""><![CDATA[<p>If you need repairs made in your smile but worry about mercury amalgam fillings, we have the answer for you. Porcelain inlays and onlays are a natural-looking alternative to amalgam fillings. Beautiful and durable, they are formed to fit and fill most types of cavities and are almost impossible to distinguish from natural teeth. If your old metal fillings are making your smile unattractive and dark, we can easily replace them with attractive porcelain alternatives.</p>]]></text>
+</root>

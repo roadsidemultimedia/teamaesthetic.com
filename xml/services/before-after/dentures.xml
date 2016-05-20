@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/dentures-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/dentures-2.jpg">After</after>
+	</image>
+	
+	<heading>Dentures</heading>
+	<text readMore=""><![CDATA[<p>If you have lost all of your natural teeth, dentures can replace your missing teeth and smile. Tooth loss can come from periodontal disease, tooth decay, or injury, but with dentures, you can benefit your appearance and health, and can continue to function as a healthy, active adult. We will help you make an informed decision about whether dentures are ideal for you.</p>]]></text>
+</root>

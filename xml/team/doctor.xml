@@ -1,0 +1,8 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="assets/images/team/doctor.jpg">Meet the Doctor</image>
+	
+	<heading>Meet the Doctor</heading>
+	<text><![CDATA[
+	<p>Content Coming Soon!</p>]]></text>
+</root>

@@ -1,0 +1,7 @@
+<root>
+	<swf src="assets/flash/contact.swf"/>
+	<image src="assets/images/contact/contact.jpg">Contact Us</image>
+	
+	<heading>Contact Us</heading>
+	<text><![CDATA[<p>Donec eleifend, urna suscipit viverra ullamcorper, turpis diam vehicula nunc, sagittis lacinia augue purus vitae nulla.</p><h2>Lorem Ipsum</h2><p>Sed nisi lorem, luctus id, semper eu, mattis porta, quam. Fusce ut dolor at elit vulputate mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam purus. Nunc consectetur. Morbi ullamcorper. Quisque diam. Duis mattis convallis turpis. Duis iaculis faucibus urna. Nam in dolor vitae mauris fringilla convallis.</p><p>Donec mi est, scelerisque aliquam, fermentum vel, condimentum non, risus. Sed tincidunt augue ut mi. Mauris varius libero et lectus. Nulla faucibus. Suspendisse lobortis ligula non ipsum. Ut consectetur ante id turpis. <font color='#ff6633'><u><a href='"+_root.content_obj.readMore + "'>Read More &#62;</a></u></font></p>]]></text>
+</root>

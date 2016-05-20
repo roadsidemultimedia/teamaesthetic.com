@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/teeth-whitening-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/teeth-whitening-2.jpg">After</after>
+	</image>
+	
+	<heading>Teeth Whitening</heading>
+	<text readMore=""><![CDATA[<p>PIf you are not happy with your smile, tooth whitening may provide the solution. These procedures can help lighten coffee-stained teeth, remove cigarette and tobacco discolorations and correct yellowing in teeth due to aging. In general, bleaching works for most people. Tooth bleaching is most effective if your teeth are darkened from age, coffee, tea, or smoking. Teeth darkened with the color of yellow, brown, or orange respond better to lightening. Other types of gray stains caused by fluorosis, smoking, or tetracycline can be lightened, but with less-than-satisfactory results. A dazzling smile isn't just for celebrities any more. It's for you, because you're worth it.</p>]]></text>
+</root>

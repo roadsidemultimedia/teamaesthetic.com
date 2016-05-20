@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/gum-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/gum-2.jpg">After</after>
+	</image>
+	
+	<heading>Gum Contouring</heading>
+	<text readMore=""><![CDATA[<p>Healthy and even gum lines are an essential part of any beautiful smile. Attractive gums make your smile look healthier and more attractive by framing and complementing your teeth. Red and swollen gums can detract from your smile. Your teeth may look too small or too short because of the disproportionate size relationship between your teeth and gums. If you suffer from either of these issues, then gum contouring may be the solution for you. Gum contouring can give you the consistent, even gumline you need for a healthy and attractive smile.</p>]]></text>
+</root>

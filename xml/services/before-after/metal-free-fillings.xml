@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/metal-free-fillings-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/metal-free-fillings-2.jpg">After</after>
+	</image>
+	
+	<heading>Metal-Free Fillings</heading>
+	<text readMore=""><![CDATA[<p>If your teeth are filled with dark metal amalgam fillings, your smile could be aging your appearance. Your discolored teeth may also cause embarrassment. Of the most concern, however, is the fact that metal fillings can also damage teeth. Amalgams expand with heat and contract with cold. This movement weakens the tooth wall, leading to fractures and allowing bacteria to enter and cause decay. Amalgam fillings contain mercury that may have negative long-term health effects. Tooth-colored composite fillings are a safer, stronger, more attractive and more enduring alternative to metal. They conservatively restore your teeth to strength and your smile to beauty.</p>]]></text>
+</root>

@@ -1,0 +1,248 @@
+.kalender{
+	width:206px;
+	cursor:pointer;
+	border: 1px #000 solid;
+}
+.kalender-menu{
+	width:206px;
+}
+
+.kalender-month{
+	background:url('../../assets/snippets/kalender/themes/custom/images/month_bar.gif') repeat-x;
+	height:23px;
+	font-family:verdana;
+	font-size:10px;
+	font-weight:bold;
+	color:#000000;	
+}
+.kalender-week{
+	background:url('../../assets/snippets/kalender/themes/custom/images/week_bar.gif') repeat-x;;
+	height:15px;
+	width:24px;
+	font-family:verdana;
+	font-size:9px;
+	font-weight:bold;
+	color:#000 /* Text */;	
+}
+
+.kalender-dayDim{
+	background-color:#eeeeee;
+	height:20px;	
+	font-family:verdana;
+	font-size:9px;
+	color:#bbbbbb;	
+}
+
+.kalender-dayDefault{
+	background-color:#e0e0e0 /* Weekdays */;
+	height:20px;
+	font-family:verdana;
+	font-size:9px;
+	color:#000 /* Text */;		
+}
+
+.kalender-dayWeekend{
+	background-color:#d0d0d0 /* Weekends */;
+	height:20px;
+	font-family:verdana;
+	font-size:9px;
+	color:#000 /* Text */;		
+}
+
+.kalender-dayHighlight_1{
+	background-color:#f6af12;
+	height:20px;
+	font-family:verdana;
+	font-size:9px;
+	color:#000 /* Text */;			
+}
+
+.kalender-dayHighlight_1:hover{
+	background-color:#e7dbcd /* Hover */;
+}
+
+.kalender-dayWeekendHighlight_1{
+	background-color:#cba247;
+	height:20px;
+	font-family:verdana;
+	font-size:9px;
+	color:#000 /* Text */;			
+}
+
+.kalender-dayWeekendHighlight_1:hover{
+	background-color:#d05110;
+}
+
+.kalender-dayHighlight_2{
+	background-color:#cabaa7 /* Highlight 1*/;
+	height:20px;
+	font-family:verdana;
+	font-size:9px;
+	color:#000 /* Text */;			
+}
+
+.kalender-dayHighlight_2:hover{
+	background-color:#e7dbcd /* Hover */;
+}
+
+.kalender-dayWeekendHighlight_2{
+	background-color:#cfa343;
+	height:20px;
+	font-family:verdana;
+	font-size:9px;
+	color:#000 /* Text */;			
+}
+
+.kalender-dayWeekendHighlight_2:hover{
+	background-color:#d05110;
+}
+
+.kalender-dayHighlight_3{
+	background-color:#a08565 /* Highlight 2*/;
+	height:20px;
+	font-family:verdana;
+	font-size:9px;
+	color:#000 /* Text */;			
+}
+
+.kalender-dayHighlight_3:hover{
+	background-color:#e7dbcd /* Hover */;
+}
+
+.kalender-dayWeekendHighlight_3{
+	background-color:#cabaa7 /* Highlight 1*/;
+	height:20px;
+	font-family:verdana;
+	font-size:9px;
+	color:#000 /* Text */;			
+}
+
+.kalender-dayWeekendHighlight_3:hover{
+	background-color:#d05110;
+}
+
+.kalender-tooltip-day{
+	background:/*url('http://www.teamaesthetic.com/assets/snippets/kalender/themes/custom/images/day_bar.gif') repeat-x*/;
+	height:23px;
+	font-family:verdana;
+	font-size:10px;
+	font-weight:bold;
+	color:#000 /* Text */;	
+}
+
+.kalender-tooltip-row_1{
+	background-color:#e7e7e7;
+	font-family:verdana;
+	font-size:10px;
+	color:#000 /* Text */;
+}
+
+.kalender-tooltip-row_2{
+	background-color:#e0e0e0 /* Weekdays */;
+	font-family:verdana;
+	font-size:10px;
+	color:#000 /* Text */;
+}
+
+.kalender-tooltip-highlight_1{
+	background-color:#f6af12;
+	font-family:verdana;
+	font-size:10px;
+	color:#000 /* Text */;	
+	font-weight:bold;
+}
+
+.kalender-tooltip-highlight_2{
+	background-color:#cabaa7 /* Highlight 1*/;
+	font-family:verdana;
+	font-size:10px;
+	color:#000 /* Text */;	
+	font-weight:bold;	
+}
+
+.kalender-tooltip-highlight_3{
+	background-color:#a08565 /* Highlight 2*/;
+	font-family:verdana;
+	font-size:10px;
+	color:#000 /* Text */;	
+	font-weight:bold;	
+}
+
+.kalender-tooltip-row_shadow{
+	background:url('../../assets/snippets/kalender/themes/custom/images/tooltip_row_shadow.gif') repeat-x;
+	height:5px;	
+}
+
+.kalender-next{
+	background:url('../../assets/snippets/kalender/themes/custom/images/next.gif') no-repeat;	
+	width:15px;
+	height:14px;
+}
+
+.kalender-next:hover{
+	background:url('../../assets/snippets/kalender/themes/custom/images/next_over.gif') no-repeat;	
+	width:15px;
+	height:14px;
+}
+
+.kalender-previous{
+	background:url('../../assets/snippets/kalender/themes/custom/images/previous.gif') no-repeat;	
+	width:15px;
+	height:14px;
+}
+
+.kalender-previous:hover{
+	background:url('../../assets/snippets/kalender/themes/custom/images/previous_over.gif') no-repeat;	
+	width:15px;
+	height:14px;
+}
+
+.kalender-jump-row {
+	font-family:verdana;
+	font-size:10px;
+	color:#000 /* Text */;	
+	cursor:pointer;	
+	background-color:#eeeeee;
+	height:15px;
+	text-decoration:none;
+}
+
+.kalender-jump-row:hover{
+	font-family:verdana;
+	font-size:10px;
+	color:#ffffff;	
+	cursor:pointer;	
+	height:15px;
+	text-decoration:none;	
+	background-color:#d0d0d0 /* Weekends */;	
+}
+
+.kalender-jump-row-text {
+	text-decoration:none;
+	color:#555555;
+}
+
+.kalender-jump-current-row {
+	font-family:verdana;
+	font-size:10px;
+	color:#000 /* Text */;	
+	cursor:pointer;	
+	background-color:#dfdfdf;
+	height:15px;
+	text-decoration:none;
+}
+
+.kalender-jump-link{
+	font-family:verdana;
+	font-size:10px;
+	color:#000 /* Text */;	
+	font-weight:bold;	
+	cursor:pointer;
+}
+
+.kalender-jump-link:hover{
+	text-decoration:none;
+}
+.kalender-menu a {color:#fff /* Current Month Link */; text-decoration:none;}
+.kalender-jump-link {position:relative; left:-15px;}
+.dont-show {display:none;}

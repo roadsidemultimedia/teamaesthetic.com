@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	
+	<item title="Welcome" type="swf" path="xml/welcome/welcome.xml" />
+	
+	<item title="Team" type="swf" path="xml/team/doctor.xml" submenu_y="0" next="true" >
+		<item title="Meet the Doctor" type="swf" path="xml/team/doctor.xml" />
+		<item title="Meet the Team" type="swf" path="xml/team/team.xml" />
+	</item>
+	
+	<item title="Smile Gallery" type="swf" path="xml/coming-soon/coming-soon.xml" />
+	
+	<item title="Services" type="swf" path="xml/services/intro.xml" submenu_y="-100" next="true">
+		<item title="Services Introduction" type="swf" path="xml/services/intro.xml" />
+		<item title="Smile Design" type="swf" path="xml/services/before-after/smile-design.xml" />		
+		<item title="Porcelain Veneers" type="swf" path="xml/services/before-after/porcelain-veneers.xml" />
+		<item title="Metal-Free Fillings" type="swf" path="xml/services/before-after/metal-free-fillings.xml" />	
+		<item title="Crowns & Bridges" type="swf" path="xml/services/before-after/crowns-bridges.xml" next="true" />		
+		<item title="Instant Orthodontics" type="swf" path="xml/services/before-after/instant-ortho.xml" />				
+		<item title="Dental Implants" type="swf" path="xml/services/before-after/implants.xml" />	
+		<item title="Bonding" type="swf" path="xml/services/before-after/bonding.xml" />	
+		<item title="Inlays & Onlays" type="swf" path="xml/services/before-after/inlays-onlays.xml" />			
+		<item title="Teeth Whitening" type="swf" path="xml/services/before-after/teeth-whitening.xml" />
+		<item title="TMJ Treatment" type="swf" path="xml/services/tmj.xml" />	
+		<item title="Hygiene" type="swf" path="xml/services/hygiene.xml" />		
+	
+	<!--<item title="Children's Dentistry" type="swf" path="xml/services/children.xml" />	
+		<item title="Bridges" type="swf" path="xml/services/before-after/bridges.xml" next="true" />		
+		<item title="Endodontics" type="swf" path="xml/services/endo.xml" />		
+		<item title="Family Dentistry" type="swf" path="xml/services/family.xml" />		
+		<item title="Neuromuscular Dentistry" type="swf" path="xml/services/neuro.xml" />		
+		<item title="Orthodontics" type="swf" path="xml/services/ortho.xml" />		
+		<item title="Periodontics" type="swf" path="xml/services/perio.xml" />		
+		<item title="Sealants" type="swf" path="xml/services/sealants.xml" />		
+		<item title="Sedation Dentistry" type="swf" path="xml/services/sedation.xml" />		
+		<item title="Dentures" type="swf" path="xml/services/before-after/dentures.xml" />	
+		<item title="Gum Contouring" type="swf" path="xml/services/before-after/gum.xml" />			
+		<item title="Porcelain Crowns" type="swf" path="xml/services/before-after/crowns.xml" />	
+		<item title="Full Mouth Rehabilitation" type="swf" path="xml/services/before-after/full-mouth.xml" />	
+		<item title="Smile Makeover" type="swf" path="xml/services/before-after/smile-makeover.xml" /> -->	
+	</item>
+
+	<item title="Office" type="swf" path="xml/office/tour.xml" submenu_y="0" next="true" >
+		<item title="Office Tour" type="swf" path="xml/office/tour.xml" />
+		<item title="Comforts & Technology" type="swf" path="xml/office/comforts-technology.xml" />
+	</item>
+	
+	<item title="News & Information" type="swf" path="xml/news-info/forms.xml" submenu_y="0" next="true">
+		<item title="Patient Forms" type="swf" path="xml/news-info/forms.xml" />
+		<item title="Insurance & Financial" type="swf" path="xml/news-info/insurance.xml" />
+	</item>
+	
+	<item title="Blog" type="url" path="/blog/" />
+	
+	<item title="Contact Us" type="swf" path="xml/contact/contact.xml" />
+	
+
+</menu>

@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/bonding-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/bonding-2.jpg">After</after>
+	</image>
+	
+	<heading>Bonding</heading>
+	<text readMore=""><![CDATA[<p>Chipped, discolored or gapped teeth can be embarrassing and can affect your self-esteem and confidence. Many people with these issues avoid smiling. Bonding, a dental technique that has been around for years, is the perfect solution in these situations. Inexpensive and conservative, bonding uses a tooth-colored composite material to restore teeth and enhance smiles. Recent modern advances have increased the strength, durability and longevity of these restorations. These bonding materials can be molded and shaped to attain outstanding results, including: teeth lightening, closing spaces between teeth, repairing chips and cracks and making teeth appear straighter. When polished, bonding gives the appearance and function of natural tooth structure.</p>]]></text>
+</root>

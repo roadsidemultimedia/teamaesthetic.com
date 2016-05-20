@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/instant-ortho-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/instant-ortho-2.jpg">After</after>
+	</image>
+	
+	<heading>Instant Orthodontics</heading>
+	<text readMore=""><![CDATA[<p>For many adults, changing their smile through cosmetic dentistry has significant advantages over choosing traditional orthodontics. In as little as two appointments, your smile can be straightened, teeth length can be restored, color, shape and contour can all be corrected and balanced to harmonize with your face and smile. Many busy adults today just don't have the time for the many office visits required with traditional orthodontics. The option of "instant orthodontics" through cosmetic dentistry certainly is a treatment to consider for the best and most convenient overall results!</p>]]></text>
+</root>

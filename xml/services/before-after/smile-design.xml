@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/smile-design-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/smile-design-2.jpg">After</after>
+	</image>
+	
+	<heading>Smile Design</heading>
+	<text readMore=""><![CDATA[<p>If you are embarrassed by chipped, worn, broken, discolored or missing teeth . . . if you have gaps between your teeth or a gummy smile, Smile Design can restore your smile to a healthy, attractive appearance. We will design your smile to complement your features and look completely natural. The process is simple: Porcelain veneers are applied to the front surfaces of your teeth, restoring your smile. Your enhanced smile will increase your confidence and self-esteem and give you a vibrant youthful appearance.</p>]]></text>
+</root>

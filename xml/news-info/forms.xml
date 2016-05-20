@@ -1,0 +1,15 @@
+<root>
+	<swf src="assets/flash/pic-text.swf"/>
+	<image src="assets/images/news-info/forms.jpg">Patient Forms</image>
+	
+	<form src="assets/forms/form1.pdf">Form One</form>
+	<form src="assets/forms/form2.pdf">Form Two</form>
+	<form src="assets/forms/form3.pdf">Form Three</form>
+	
+	<heading>Patient Forms</heading>
+	<text><![CDATA[<p>At ______________, we understand how busy you are and value both you and your time. This is why we now make our new patient forms available online, providing you with the option of completing them at your leisure and in the comfort of your own home. Simply print them out, fill in your information, and bring in for your first visit</p>
+	<p>If you choose to complete the forms at our office before your appointment, please arrive a few minutes early to allow yourself time to complete them without feeling rushed.</p>
+		<span class='pdf_link'><a href="http://woot.com">This is a link</a></span><br>
+		<span class='pdf_link'><a href="http://woot.com">This is a link</a></span><br>
+	]]></text>
+</root>

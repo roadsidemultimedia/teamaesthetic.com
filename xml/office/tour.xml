@@ -1,0 +1,12 @@
+<root>
+	<swf src="assets/flash/slideshow-resizing.swf"/>
+	<heading>Office Tour</heading>
+	<text><![CDATA[<p>Content coming soon!</p>]]></text>
+	<image src="assets/images/office/tour1.jpg">Tour1</image>
+	<image src="assets/images/office/tour2.jpg">Tour2</image>
+	<image src="assets/images/office/tour3.jpg">Tour3</image>
+	<image src="assets/images/office/tour4.jpg">Tour4</image>
+	<image src="assets/images/office/tour5.jpg">Tour5</image>
+	<image src="assets/images/office/tour6.jpg">Tour6</image>
+	<image src="assets/images/office/tour7.jpg">Tour7</image>
+</root>

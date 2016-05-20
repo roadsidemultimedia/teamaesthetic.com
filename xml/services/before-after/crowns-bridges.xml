@@ -1,0 +1,13 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/crowns-bridges-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/crowns-bridges-2.jpg">After</after>
+	</image>
+	
+	<heading>Crowns & Bridges</heading>
+	<text readMore=""><![CDATA[<p><h2>Ceramic Crowns</h2>
+	<p>Our talented team is proud to offer the latest in dental restorations, a natural-looking alternative: all-ceramic, non-metal crowns. All-ceramic or all-porcelain crowns provide the best natural color match than any other type of crown and you will notice the "life-like" appearance that mimic natural teeth and do not produce the black gumline so common with porcelain-metal crowns. All-ceramic or all-porcelain crowns are great choices for front teeth restorations and also may be more suitable for people with metal allergies.</p>
+	<h2>Bridges</h2>
+	<p>A dental bridge is a custom device anchored to neighboring teeth that replaces one or more missing teeth. When a lost or damaged tooth is replaced with bridgework, the teeth on either side of the missing one are prepared as crowns to serve as abutments to hold the prosthetic (replacement) tooth in place. Crowns and bridges are most commonly prepared from high quality materials such as semi-precious or precious metals, porcelain or a fused combination of the two. Aesthetics, function and tissue compatibility are considered when selecting the material most suitable for you.</p>]]></text>
+</root>

@@ -1,0 +1,10 @@
+<root>
+	<swf src="assets/flash/pic-text-ba.swf"/>
+	<image>
+		<before src="assets/images/services/before-after/implants-1.jpg">Before</before>
+		<after src="assets/images/services/before-after/implants-2.jpg">After</after>
+	</image>
+	
+	<heading>Dental Implants</heading>
+	<text readMore=""><![CDATA[<p>Today's dental implants are changing the way people live! With implants, people are rediscovering the comfort and confidence to smile, eat, speak, laugh and enjoy life. Dental implants are designed to provide a foundation for replacement teeth that look, feel and function like natural teeth. A person with implants regains the ability to eat virtually anything and can smile with confidence, knowing that teeth appear natural and that facial contours have been preserved. Implants consist of small titanium posts which are placed into the jawbone where teeth are missing. The bone bonds with the titanium, creating a strong foundation for artificial teeth. In addition to restoring a natural appearance in the mouth, implants can help preserve facial structure, preventing bone deterioration, which typically occurs when teeth are missing.</p>]]></text>
+</root>

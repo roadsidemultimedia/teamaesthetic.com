@@ -1,0 +1,51 @@
+html,body {
+height:100%;
+}
+
+body {
+background: #181818;
+font-size:62.5%;
+color: #fff;
+font-family:verdana;
+}
+
+.clear {
+clear:both;
+}
+
+
+h3 {font-size:20px; margin:33px 0 6px 0;}
+h1, h3 {font-family:Helvetica; font-weight:normal; color:#ffc28c;}
+#sideBar h3 {font-size:22px; margin:19px 0 0 0;}
+#top-h3 h3 {margin-top:5px;}
+h1 {
+font-size:22px;
+margin:0 0 15px 0;
+}
+h1 img {margin:5px 0;}
+h3 img {margin:1px 0 0 0;}
+#container {font-size:1.2em; padding:25px;}
+p {
+line-height:1.5em;
+margin:0 0 5px 0;
+padding-bottom:0;
+padding-top:6px;
+}
+
+.shadowLeft {
+float:left;
+border:3px #666 /*DEFAULT: Middle Grey*/ solid;
+margin:8px 25px 10px 0;
+clear:both;
+}
+
+.shadowRight {
+float:right;
+border:3px #666 /*DEFAULT: Middle Grey*/ solid;
+margin:8px 0 10px 25px;
+clear:both;
+}
+a {color:#215619;}
+a:hover {color:#000;}
+.spacer {height:40px;}
+#vertSpacer {width:1px; float:right; height:200px;}

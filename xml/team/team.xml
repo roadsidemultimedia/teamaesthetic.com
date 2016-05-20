@@ -1,0 +1,8 @@
+<root>
+	<swf src="assets/flash/team.swf"/>
+	<image src="assets/images/team/team.jpg">Meet the Team</image>
+	
+	<heading>Meet the Team</heading>
+	<text><![CDATA[
+	<p>(Mouse-over photo for more information)</p>]]></text>
+</root>
